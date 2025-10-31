@@ -7,11 +7,11 @@
 ---
 
 ### 🧠 About Me  
-- 🎓 I'm a **B.Tech 1st Year Student** exploring the world of **Coding & Technology**  
+- 🎓 **B.Tech 1st Year Student** passionate about **Coding & Technology**  
 - 🌱 Currently learning **C, HTML, CSS, and Python**  
-- 💡 Interested in **Web Development, AI, and Data Science**  
-- 💬 Always open to learn & collaborate on new projects  
-- ⚡ Fun fact: I believe “A bug is just a step towards a better solution!”
+- 💡 Exploring **Web Development, AI, and Data Science**  
+- 🤝 Open to learning and collaborating on new projects  
+- ⚡ *Fun fact:* “A bug is just a step toward a better solution!”
 
 ---
 
@@ -44,44 +44,44 @@
 
 ### 💼 Projects  
 
-| Project | Description | Link |
-|----------|--------------|------|
-| 🌐 **Personal Portfolio Website** | My personal portfolio built using HTML, CSS & JS | *Coming Soon* |
-| 🧮 **Calculator App** | Simple calculator using basic JavaScript | *Coming Soon* |
-| 🐍 **Python Mini Projects** | Learning Python with fun beginner projects | *Coming Soon* |
-| 📊 **Student Management System** | Future project idea using C and MySQL | *Coming Soon* |
-| 🤖 **AI Chat Assistant** | Exploring chatbot using Python (Future goal) | *Coming Soon* |
+| Project | Description | Status |
+|----------|--------------|--------|
+| 🌐 **Personal Portfolio Website** | My portfolio built using HTML, CSS & JS | 🚧 Coming Soon |
+| 🧮 **Calculator App** | Simple calculator using JavaScript | 🚧 Coming Soon |
+| 🐍 **Python Mini Projects** | Fun beginner-level Python projects | 🚧 Coming Soon |
+| 📊 **Student Management System** | Manage student data using C & MySQL | 🚧 Coming Soon |
+| 🤖 **AI Chat Assistant** | Chatbot using Python (Future project) | 🚧 Coming Soon |
 
 ---
 
 ### ⚙️ GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham21-star&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham21-star&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham21-star&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shubham21-star&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham21-star&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham21-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham21-star&theme=radical&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham21-star&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ### 🎯 Future Goals  
-- 🔹 Master **Web Development** (Frontend + Backend)  
-- 🔹 Learn **JavaScript frameworks** like React & Node.js  
-- 🔹 Explore **Python for AI & Data Science**  
-- 🔹 Build real-world projects & open-source contributions  
+- 🔹 Master **Web Development (Frontend + Backend)**  
+- 🔹 Learn **React, Node.js, and Express.js**  
+- 🔹 Dive into **Python for AI & Data Science**  
+- 🔹 Build **real-world & open-source projects**
 
 ---
 
