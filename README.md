@@ -143,3 +143,8 @@
 </p>
 
 <p align="center">⭐ From <b>Shubham Kumar</b> with ❤️</p>
+
+```
+### 🐍 Contribution Snake Animation  
+![GitHub Snake Dark](https://raw.githubusercontent.com/shubham21-star/shubham21-star/output/github-contribution-grid-snake-dark.svg)
+
