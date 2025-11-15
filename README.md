@@ -1,23 +1,24 @@
-<!-- 🌟 Ultimate Profile README of Shubham Kumar -->
+<!-- 🌟 Profile README of Shubham Kumar -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Shubham+Kumar!;B.Tech+1st+Year+Student;Aspiring+Full+Stack+Developer;Exploring+Web+Dev,+Python,+and+AI;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Shubham+Kumar!;B.Tech+1st+Year+Student;Learning+Programming+and+Development;Exploring+Web+Dev,+Python,+and+C;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code%20Hard-Stay%20Humble-00FFB3?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Keep%20Learning-Stay%20Curious-00FFB3?style=for-the-badge&logo=github" />
 </div>
 
 ---
 
 ### 🧠 About Me  
-- 🎓 **B.Tech 1st Year Student** passionate about **technology and innovation**  
-- 💻 Building skills in **C, HTML, CSS, JavaScript, and Python**  
-- 🚀 Exploring **Full Stack Development, AI, and Data Science**  
-- 🤝 Open to collaborations and contributing to open-source projects  
-- ⚡ *Fun fact:* Every bug fixed is a small victory toward mastery!
+- 🎓 **B.Tech 1st Year Student**  
+- 💻 Learning **C, HTML, CSS, Python**  
+- 🔧 Practicing coding on **VS Code & Google Colab**  
+- 🌱 Exploring basics of **Web Development & Programming**  
+- 🤝 Open to learning and building beginner projects  
+- ⚡ *Fun fact:* Every day is progress — even 1 line of code counts!
 
 ---
 
@@ -43,7 +44,7 @@
 ### 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mysql,git,vscode,github&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,vscode,github&theme=dark&perline=6" />
 </p>
 
 ---
@@ -51,12 +52,12 @@
 ### 💼 Featured Projects  
 
 | 🚀 Project | 🧩 Description | 📊 Status |
-|-------------|----------------|-----------|
-| 🌐 **Portfolio Website** | Personal portfolio built with HTML, CSS & JS | ✅ Completed |
-| 🧮 **Calculator App** | Interactive calculator using JavaScript | ✅ Completed |
-| 🐍 **Python Mini Projects** | Fun beginner Python programs | 🚧 In Progress |
-| 📊 **Student Management System** | Manage student records using C & MySQL | 🚧 In Progress |
-| 🤖 **AI Chat Assistant** | Smart chatbot using Python | 🎯 Planned |
+|-----------|----------------|-----------|
+| 🌐 **Portfolio Website** | Learning to build portfolio using HTML, CSS & JS | 🟡 Learning |
+| 🧮 **Calculator App** | Practicing JavaScript basics | 🟡 Learning |
+| 🐍 **Python Mini Projects** | Small beginner Python programs | 🟡 Learning |
+| 📊 **Student Management System** | Practicing C + MySQL basics | 🟡 Learning |
+| 🤖 **AI Chat Assistant** | Future plan (Python + AI) | 🔵 Planned |
 
 ---
 
@@ -76,7 +77,7 @@
 
 ---
 
-### 🏅 GitHub Achievements  
+### 🏆 GitHub Achievements  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham21-star&theme=tokyonight" />
@@ -94,35 +95,12 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham21-star&theme=radical&no-bg=true&no-frame=true&margin-w=15" />
-</p>
-
----
-
-### ⚡ Recent GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham21-star&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shubham21-star/shubham21-star/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🎯 Future Goals  
-- 🔹 Master **Frontend + Backend Development**  
-- 🔹 Learn **React, Node.js, and Express.js**  
-- 🔹 Deepen knowledge in **Python, AI & Data Science**  
-- 🔹 Build and contribute to **real-world open-source projects**
+- 🔹 Improve **C Programming**  
+- 🔹 Learn **Frontend Development (HTML, CSS, JS)**  
+- 🔹 Strengthen basics in **Python**  
+- 🔹 Build beginner-friendly real projects  
+- 🔹 Slowly move toward **Full Stack Development**
 
 ---
 
@@ -133,18 +111,8 @@
 
 ---
 
-### ✨ Quote of the Day  
-> “The best way to predict the future is to build it.” 💪  
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=100&section=footer"/>
 </p>
 
 <p align="center">⭐ From <b>Shubham Kumar</b> with ❤️</p>
-
----
-🐍 Contribution Snake Animation  
-![GitHub Snake Dark](https://raw.githubusercontent.com/shubham21-star/shubham21-star/output/github-contribution-grid-snake-dark.svg)
-
