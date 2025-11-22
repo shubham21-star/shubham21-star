@@ -1,4 +1,4 @@
-<!-- 🌟 Profile README of Shubham Kumar -->
+<!-- 🌟 Profile README of Shubham Kumar -->   
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Shubham+Kumar!;B.Tech+1st+Year+Student;Learning+Programming+and+Development;Exploring+Web+Dev,+Python,+and+C;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
