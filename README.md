@@ -83,10 +83,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham21-star&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham21-star&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubham21-star&theme=tokyonight&utcOffset=5" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham21-star&theme=tokyonight" />
