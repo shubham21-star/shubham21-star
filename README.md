@@ -15,17 +15,17 @@
 ### 🧠 About Me
 - 🎓 **B.Tech 1st Year (CSE – Data Analytics)**
 - 💻 Core focus on **C & Python**
-- 🌐 Learning **HTML & CSS** for frontend basics
-- 🛠️ Daily coding practice on **VS Code & Google Colab**
-- 📌 Belief: *Strong fundamentals beat shortcuts*
-- ⚡ Progress mindset: consistency over intensity
+- 🌐 Learning **HTML & CSS** for frontend fundamentals
+- 🛠️ Daily practice using **VS Code & Google Colab**
+- 📌 Philosophy: *Strong basics beat shortcuts*
+- ⚡ Consistency > motivation
 
 ---
 
 ### 🔧 Currently Working On
-- Writing **C programs** for arrays, functions, and pointers  
-- Building **basic static websites** without frameworks  
-- Solving **beginner Python problems** to improve logic  
+- Writing **C programs** (arrays, functions, pointers)
+- Building **static websites** without frameworks
+- Solving **Python logic problems** regularly
 
 ---
 
@@ -62,16 +62,16 @@
 | 🚀 Project | 🧩 Description | 📊 Status |
 |-----------|----------------|-----------|
 | 🌐 **Portfolio Website** | Static portfolio using HTML & CSS | 🟡 In Progress |
-| 🧮 **Calculator App** | JavaScript calculator with basic operations | 🟡 In Progress |
-| 🐍 **Python Mini Projects** | Logic-based beginner Python programs | 🟢 Ongoing |
-| 📊 **Student Management System** | Console-based C project (file handling basics) | 🔵 Planned |
+| 🧮 **Calculator App** | JavaScript calculator (basic operations) | 🟡 In Progress |
+| 🐍 **Python Mini Projects** | Beginner Python logic programs | 🟢 Ongoing |
+| 📊 **Student Management System** | C-based console project (file handling) | 🔵 Planned |
 
 ---
 
-### ⚙️ GitHub Overview
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham21-star&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham21-star&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -79,8 +79,8 @@
 ### 🎯 Short-Term Goals
 - Strengthen **C fundamentals**
 - Write clean, readable **Python code**
-- Complete and document **small projects**
-- Build discipline through daily practice
+- Finish and document **small projects**
+- Build discipline through daily commits
 
 ---
 
