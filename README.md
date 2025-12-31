@@ -1,114 +1,98 @@
-<!-- 🌟 Profile README of Shubham Kumar -->  
+<!-- 🌟 Profile README of Shubham Kumar -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Shubham+Kumar!;B.Tech+1st+Year+Student;Learning+Programming+and+Development;Exploring+Web+Dev,+Python,+and+C;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Shubham+Kumar;B.Tech+1st+Year+CSE+Student;Building+Strong+Programming+Foundations;Learning+C,+Python+and+Web+Basics" alt="Typing SVG" />
 </h1>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Keep%20Learning-Stay%20Curious-00FFB3?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Fundamentals%20%7C%20Consistency-00FFB3?style=for-the-badge&logo=github" />
 </div>
 
 ---
 
-### 🧠 About Me  
-- 🎓 **B.Tech 1st Year Student**  
-- 💻 Learning **C, HTML, CSS, Python**  
-- 🔧 Practicing coding on **VS Code & Google Colab**  
-- 🌱 Exploring basics of **Web Development & Programming**  
-- 🤝 Open to learning and building beginner projects  
-- ⚡ *Fun fact:* Every day is progress — even 1 line of code counts!
+### 🧠 About Me
+- 🎓 **B.Tech 1st Year (CSE – Data Analytics)**
+- 💻 Core focus on **C & Python**
+- 🌐 Learning **HTML & CSS** for frontend basics
+- 🛠️ Daily coding practice on **VS Code & Google Colab**
+- 📌 Belief: *Strong fundamentals beat shortcuts*
+- ⚡ Progress mindset: consistency over intensity
 
 ---
 
-### 🌐 Connect with Me  
+### 🔧 Currently Working On
+- Writing **C programs** for arrays, functions, and pointers  
+- Building **basic static websites** without frameworks  
+- Solving **beginner Python problems** to improve logic  
+
+---
+
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham21-star" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/shubhamk_.21/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shubham.asp21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/shubham21_star" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-Practice-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack  
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,vscode,github&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,vscode,github&theme=dark&perline=6" />
 </p>
+
+- **Core:** C, Python  
+- **Basics:** HTML, CSS  
+- **Tools:** VS Code, GitHub, Google Colab  
 
 ---
 
-### 💼 Featured Projects  
+### 💼 Featured Projects
 
 | 🚀 Project | 🧩 Description | 📊 Status |
 |-----------|----------------|-----------|
-| 🌐 **Portfolio Website** | Learning to build portfolio using HTML, CSS & JS | 🟡 Learning |
-| 🧮 **Calculator App** | Practicing JavaScript basics | 🟡 Learning |
-| 🐍 **Python Mini Projects** | Small beginner Python programs | 🟡 Learning |
-| 📊 **Student Management System** | Practicing C + MySQL basics | 🟡 Learning |
-| 🤖 **AI Chat Assistant** | Future plan (Python + AI) | 🔵 Planned |
+| 🌐 **Portfolio Website** | Static portfolio using HTML & CSS | 🟡 In Progress |
+| 🧮 **Calculator App** | JavaScript calculator with basic operations | 🟡 In Progress |
+| 🐍 **Python Mini Projects** | Logic-based beginner Python programs | 🟢 Ongoing |
+| 📊 **Student Management System** | Console-based C project (file handling basics) | 🔵 Planned |
 
 ---
 
-### ⚙️ GitHub Analytics  
+### ⚙️ GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham21-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shubham21-star&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham21-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham21-star&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham21-star&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham21-star&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham21-star&theme=tokyonight" />
-</p>
+### 🎯 Short-Term Goals
+- Strengthen **C fundamentals**
+- Write clean, readable **Python code**
+- Complete and document **small projects**
+- Build discipline through daily practice
 
 ---
 
-### 🎯 Future Goals  
-- 🔹 Improve **C Programming**  
-- 🔹 Learn **Frontend Development (HTML, CSS, JS)**  
-- 🔹 Strengthen basics in **Python**  
-- 🔹 Build beginner-friendly real projects  
-- 🔹 Slowly move toward **Full Stack Development**
-
----
-
-### 📈 Visitor Count  
+### 📈 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham21-star&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shubham21-star&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=90&section=footer"/>
 </p>
 
-<p align="center">⭐ From <b>Shubham Kumar</b> with ❤️</p>
+<p align="center"><b>Shubham Kumar</b> — learning the craft, one commit at a time.</p>
