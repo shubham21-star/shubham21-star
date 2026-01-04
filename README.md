@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Focus-Fundamentals%20%7C%20Consistency-00FFB3?style=for-the-badge&logo=github" />
 </div>
 
----
+---   
 
 ### 🧠 About Me
 - 🎓 **B.Tech 1st Year (CSE – Data Analytics)**
