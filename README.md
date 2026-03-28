@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Shubham+Kumar;B.Tech+1st+Year+CSE+Student;Building+Strong+Programming+Foundations;Learning+C,+Python+and+Web+Basics" alt="Typing SVG" />
 </h1>
  
---- 
+---   
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Fundamentals%20%7C%20Consistency-00FFB3?style=for-the-badge&logo=github" />
