@@ -26,6 +26,7 @@
 - Writing **C programs** (arrays, functions, pointers)
 - Building **static websites** without frameworks
 - Solving **Python logic problems** regularly
+- 
 
 ---
 
